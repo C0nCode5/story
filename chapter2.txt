@@ -1,1 +1,1 @@
-here is the second chapter to be tracked by git 
+here is the second chapter to be tracked by git . added to the second chapter
