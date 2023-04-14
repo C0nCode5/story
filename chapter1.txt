@@ -1,2 +1,2 @@
-here is a short story to be tracked by git 
+here is a short story to be tracked by git. adding some changes to be tracked on secondary branch 
 
